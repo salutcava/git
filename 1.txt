@@ -7,3 +7,7 @@ GIT 50
 head va avancer
 
 Modifié via master 
+
+modif b070
+
+Merge conflict solved
